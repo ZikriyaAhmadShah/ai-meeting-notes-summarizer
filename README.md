@@ -1,2 +1,2 @@
-# ai-meeting-notes-summarizer
-AI powered meeting transcript summarizer built with Claude API  extracts summaries, key decisions and action items in seconds.
+# AI-Meeting-Notes-Summarizer
+AI powered meeting transcript summarizer built with Claude API that extract summaries, key decisions and action items in seconds.
